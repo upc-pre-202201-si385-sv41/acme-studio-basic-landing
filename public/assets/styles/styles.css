@@ -28,6 +28,15 @@ a {
     opacity: 0.9;
 }
 
+a.btn {
+    color: #fff;
+    border-radius: 4px;
+    text-transform: uppercase;
+    background-color: #2196f3;
+    font-weight: 800;
+    text-align: center;
+}
+
 a:hover {
     opacity: 1;
 }
